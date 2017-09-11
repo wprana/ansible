@@ -1,7 +1,7 @@
 ---
   - name: update all package
     yum:
-      name:'*'
+      name: '*'
       state: latest
 
   - name: reboot after update
