@@ -4,5 +4,5 @@
   redhat_subscription:
     state: present
     username: wprana
-    password: D3s5tr0y3r!
+    password: D35tr0y3r!
     pool: 8a85f9815e4f331d015e503fdfaf3e79
