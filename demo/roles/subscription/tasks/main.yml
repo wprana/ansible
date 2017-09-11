@@ -1,0 +1,8 @@
+---
+
+- name: reg_attach
+  redhat_subscription:
+    state: present
+    username: joe_user
+    password: somepass
+    pool_ids: 0123456789abcdef0123456789abcdef
