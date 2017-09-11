@@ -1,0 +1,9 @@
+---
+  - name: update all package
+    yum:
+      name:'*'
+      state: latest
+
+  - name: reboot after update
+    notify:
+    - Host_Reboot
