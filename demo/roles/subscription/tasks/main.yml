@@ -5,4 +5,4 @@
     state: present
     username: wprana
     password: D3s5tr0y3r!
-    pool_ids: 8a85f9815e4f331d015e503fdfaf3e79
+    pool: 8a85f9815e4f331d015e503fdfaf3e79
