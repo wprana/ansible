@@ -3,6 +3,6 @@
 - name: reg_attach
   redhat_subscription:
     state: present
-    username: wprana
-    password: D35tr0y3r!
+    username: ###############
+    password: ###############
     pool: 8a85f9815e4f331d015e503fdfaf3e79
